@@ -2,20 +2,6 @@
 
 credit: https://ctan.org/tex-archive/macros/latex/contrib/mla-paper/
 
-===============================
-|
-|   The MLA Package 
-|   for LaTeX and pdfLaTeX
-|
-|   By Ryan Aycock
-|
-|   with contributions by Steven Wheelwright,
-|        Edward Z. Yang, and Teddy Bradford
-|
-|   Last updated on December 29, 2010 
-|
-===============================
-
 LaTeX is a wonderful tool that has long been known for typesetting scientific papers books.  Unfortunately, when it comes to the humanities, writers are left out in the cold due to the lack of packages for writing in the MLA style.  The aim of this work is to allow students and other academics properly typeset their materials with minimal effort on their part.
 
 The MLA Package is released under the LaTeX license.  Visit www.ctan.org for more information.

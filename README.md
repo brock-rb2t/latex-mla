@@ -33,7 +33,7 @@ Tips for writing MLA:
 ===============================
 
 The following template is what I use:
-
+```
 \documentclass[12pt,letterpaper]{article}
 \usepackage{ifpdf}
 \usepackage{mla}
@@ -51,7 +51,7 @@ author's last name, first name.  ``Paper Title."  \textit{Book Title}.  Date of 
 \end{workscited}
 \end{mla}
 \end{document}
-
+```
 ===============================
 
 Other notes:
